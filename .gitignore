@@ -1,0 +1,23 @@
+# STM32编译输出
+build/
+Debug/
+Release/
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+
+# CubeMX临时文件
+*.ioc.bak
+*.mxproject
+*.stignore
+*.launch
+.settings/
+.cproject
+.project
+
+# VSCode临时文件
+.vscode/ipch/
+.vscode/*.log
+*.tmp
